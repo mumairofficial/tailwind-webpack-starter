@@ -1,6 +1,8 @@
 # Tailwind Starter Project based upon Webpack 4.x
 Tailwind starter template based upon webpack 4.20.0
 
+[Demo](https://mumairofficial.github.io/tailwind-webpack-starter/)
+
 ![capture](https://user-images.githubusercontent.com/6498132/46023092-53345e80-c0fd-11e8-90e5-b187b2faf8e2.PNG)
 
 To get started, clone the project and install the dependencies:
